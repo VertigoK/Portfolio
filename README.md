@@ -2,8 +2,8 @@
 
 ### Projects:
 
-- <a href="https://github.com/VertigoK/multi-person-chat-room">Multi-Person Chat Room - Netty, Spring Boot, Thymeleaf, Bootstrap and jQuery</a>
-- <a href="https://github.com/VertigoK/blog">Blog - Spring Boot/Security/Validation/Data JPA, MySQL/AWS RDS, Thymeleaf, Bootstrap and jQuery</a>
+- <a href="https://github.com/VertigoK/multi-person-chat-room">Multi-Person Chat App - Netty, Spring Boot, Thymeleaf, Bootstrap and jQuery</a>
+- <a href="https://github.com/VertigoK/blog">Blog App - Spring Boot/Security/Validation/Data JPA, MySQL/AWS RDS, Thymeleaf, Bootstrap and jQuery</a>
 - <a href="https://github.com/VertigoK/TH_MES">MES (Manufacturing Execution System) - Java, JSP, Servlet, Python, MariaDB, Bootstrap and jQuery</a>
 - <a href="https://github.com/VertigoK/ShoppingMall">Shopping Mall - Java, Servlet, JSP, MariaDB and Bootstrap</a>
 
