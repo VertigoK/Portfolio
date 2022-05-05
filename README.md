@@ -9,3 +9,4 @@
 
 ### Examples:
 - <a href="https://github.com/VertigoK/summernote-image">Upload/Store/Load an Image-Included Article in Summernote - Spring Boot/Data JPA, MySQL, Thymeleaf, Bootstrap and jQuery</a>
+- <a href="https://github.com/VertigoK/blog-mongo-webflux">Simple CRUD App - Reactive MongoDB, Spring WebFlux and Thymeleaf
