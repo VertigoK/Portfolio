@@ -11,3 +11,4 @@
 
 ### Examples:
 - <a href="https://github.com/VertigoK/Redis-Lettuce">Redis(Lettuce) Tests - Spring Boot, Redis(Lettuce) and jUnit 5</a>
+- <a href="https://github.com/VertigoK/netty-chat">Netty Chat Server/Client - Spring Boot and Netty</a> 
