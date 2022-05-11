@@ -10,5 +10,6 @@
 - <a href="https://github.com/VertigoK/ShoppingMall">Shopping Mall - Java, Servlet, JSP, MariaDB and Bootstrap</a>
 
 ### Examples:
+- <a href="https://github.com/VertigoK/MongoDB-Redis-Cache">MongoDB with Redis Cache - Simple CRUD Tests</a>
 - <a href="https://github.com/VertigoK/Redis-Lettuce">Redis(Lettuce) Tests - Spring Boot, Redis(Lettuce) and jUnit 5</a>
 - <a href="https://github.com/VertigoK/netty-echo-server-client">Netty Echo Server/Client - Spring Boot and Netty</a> 
