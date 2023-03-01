@@ -1,4 +1,4 @@
-#### 김경은 (Kyungeun "Kevin" Kim) &nbsp;&nbsp; ke.kevin.kim@gmail.com
+#### Kyungeun "Kevin" Kim &nbsp;&nbsp; ke.kevin.kim@gmail.com
 
 ### Projects:
 
