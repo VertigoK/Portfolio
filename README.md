@@ -1,4 +1,4 @@
-##### Coding for fun
+I'm coding for fun.
 
 ### Projects:
 - <a href="https://github.com/VertigoK/multi-person-chat-room">Multi-Person Chat App - Netty, Spring Boot, Thymeleaf, Bootstrap and jQuery</a>
