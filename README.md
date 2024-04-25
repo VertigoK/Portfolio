@@ -1,3 +1,5 @@
+##### Coding for fun
+
 ### Projects:
 - <a href="https://github.com/VertigoK/multi-person-chat-room">Multi-Person Chat App - Netty, Spring Boot, Thymeleaf, Bootstrap and jQuery</a>
 - <a href="https://github.com/VertigoK/blog-mongo-webflux">Simple CRUD Reactive App - Reactive MongoDB, Spring WebFlux and Thymeleaf</a>
