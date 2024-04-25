@@ -1,5 +1,3 @@
-#### Kyungeun "Kevin" Kim &nbsp;&nbsp; ke.kevin.kim@gmail.com
-
 ### Projects:
 
 - <a href="https://github.com/VertigoK/multi-person-chat-room">Multi-Person Chat App - Netty, Spring Boot, Thymeleaf, Bootstrap and jQuery</a>
